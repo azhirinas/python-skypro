@@ -1,6 +1,7 @@
 Работы выполнены в рамках обучения на курсе SkyPro
 
-Ссылка на курс: https://sky.pro/courses/analytics/python
+Ссылка на курс: https://sky.pro/courses/analytics/data_analytics
+Подробнее о модуле по Python: https://sky.pro/courses/analytics/python
 
 ---
 
